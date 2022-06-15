@@ -1,0 +1,23 @@
+GET http://server1.netinfostation.com/getDST.php?city=100783493 HTTP/1.1
+Accept: */*
+Accept-Language: en-US
+Referer: file:///Z|/FromMemory/D7BAED74924D435D84DB8A1E89E7AE3A/100/4BC37A1F293B47169DBC8019C50075F5.swf
+x-flash-version: 9,0,115,0
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.2; WOW64; Trident/7.0; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
+Host: server1.netinfostation.com
+Connection: Keep-Alive
+
+
+HTTP/1.1 200 OK
+Date: Wed, 15 Jun 2022 06:31:54 GMT
+Server: Apache/2
+X-Powered-By: PHP/7.4.28
+Upgrade: h2,h2c
+Connection: Upgrade, Keep-Alive
+Vary: Accept-Encoding,User-Agent
+Content-Length: 35
+Keep-Alive: timeout=2, max=100
+Content-Type: text/plain;charset=UTF-8
+
+<<INSERT PROPER RESPONSE HERE>>
